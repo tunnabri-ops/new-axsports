@@ -2,6 +2,7 @@ name: Auto Update AXSports
 
 on:
   schedule:
+    # প্রতি ৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে চেক ও আপডেট করবে
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -18,7 +19,12 @@ jobs:
 
       - name: Download AXSports files
         run: |
+          # axsports_bd.m3u ফাইল ডাউনলোড (404 এরর এড়াতে --fail ব্যবহার করা হয়েছে)
+          curl -sL --fail "https://raw.githubusercontent.com/srhady/axsports/main/axsports_bd.m3u" -o axsports.m3u || \
           curl -sL "https://raw.githubusercontent.com/srhady/axsports/main/axsports.m3u" -o axsports.m3u
+
+          # json ফাইল ডাউনলোড
+          curl -sL --fail "https://raw.githubusercontent.com/srhady/axsports/main/axsports_bd.json" -o axsports.json || \
           curl -sL "https://raw.githubusercontent.com/srhady/axsports/main/axsports.json" -o axsports.json
 
       - name: Commit and Push Changes
