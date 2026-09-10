@@ -19,17 +19,13 @@ jobs:
 
       - name: Download AXSports files
         run: |
-          # axsports_bd.m3u ফাইল ডাউনলোড (404 এরর এড়াতে --fail ব্যবহার করা হয়েছে)
-          curl -sL --fail "https://raw.githubusercontent.com/srhady/axsports/main/axsports_bd.m3u" -o axsports.m3u || \
-          curl -sL "https://raw.githubusercontent.com/srhady/axsports/main/axsports.m3u" -o axsports.m3u
-
-          # json ফাইল ডাউনলোড
-          curl -sL --fail "https://raw.githubusercontent.com/srhady/axsports/main/axsports_bd.json" -o axsports.json || \
-          curl -sL "https://raw.githubusercontent.com/srhady/axsports/main/axsports.json" -o axsports.json
+          # আসল ফাইলের নাম অনুযায়ী ডাউনলোড
+          curl -sL "https://raw.githubusercontent.com/srhady/axsports/main/playlist.m3u" -o playlist.m3u
+          curl -sL "https://raw.githubusercontent.com/srhady/axsports/main/live_sports.json" -o live_sports.json
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add playlist.m3u live_sports.json
           git diff-index --quiet HEAD || (git commit -m "Auto update: $(date)" && git push)
