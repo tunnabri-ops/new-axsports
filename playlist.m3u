@@ -4,45 +4,70 @@
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:32:23 AM 13-09-2026
+#last update time: 4:32:28 PM 13-09-2026
 
-#EXTINF:-1 tvg-id="64112" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weekend%206%2C%20Day%203.jpg" group-title="LIVE", Weekend 6, Day 3 - Australian Darts Association
+#EXTINF:-1 tvg-id="59336" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSM%20Makassar%20vs%20Arema%20FC.jpg" group-title="LIVE", PSM Makassar vs Arema FC - Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114416/720p/chunks.m3u8?is_vip=false&token=1789363944-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9c864dcefb272c8854838ea4fca225df
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd009a/chunks.m3u8?is_vip=false&token=1789381950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-885a721f6faff7f5fa5d86d38add4489
 
-#EXTINF:-1 tvg-id="64113" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Tour%2027%E2%80%9328.jpg" group-title="LIVE", Asian Tour 27–28 - Asian Tour
+#EXTINF:-1 tvg-id="64751" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20FC%20vs%20Cooma%20Tigers%20FC.jpg" group-title="LIVE", Canberra FC vs Cooma Tigers FC - Capital Territory NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114417/720p/chunks.m3u8?is_vip=false&token=1789363946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9df960769153633ca0a3781b1cc60a0c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0545d0bd04a161fbf6853-backup/chunks.m3u8?is_vip=false&token=1789381951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ba1e69f5821b2ccdade2237b1cd48f3
 
-#EXTINF:-1 tvg-id="61009" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Titans%20vs%20Newcastle%20Knights.jpg" group-title="LIVE", Gold Coast Titans vs Newcastle Knights - NRL Women's Premiership
+#EXTINF:-1 tvg-id="64751" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20FC%20vs%20Cooma%20Tigers%20FC.jpg" group-title="LIVE", Canberra FC vs Cooma Tigers FC - Capital Territory NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789363948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e3a6051f01c43a7ef306e1e6a084dfe
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0545d0bd04a161fbf6853/chunks.m3u8?is_vip=false&token=1789381952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ed240ed1a227e6eba9611e40c418f44
 
-#EXTINF:-1 tvg-id="65241" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weston%20Bears%20vs%20Maitland.jpg" group-title="LIVE", Weston Bears vs Maitland - Northern NSW NPL [Server 1]
+#EXTINF:-1 tvg-id="59343" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Fagiano%20Okayama.jpg" group-title="LIVE", Urawa vs Fagiano Okayama - J1 League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa197e4b6fa125e7d4beae6-backup/chunks.m3u8?is_vip=false&token=1789363949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a777a265362f8971dd17b0c69abfdf57
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3-backup/chunks.m3u8?is_vip=false&token=1789381957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c99f88bc6104cee695441f8013c33965
 
-#EXTINF:-1 tvg-id="65241" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weston%20Bears%20vs%20Maitland.jpg" group-title="LIVE", Weston Bears vs Maitland - Northern NSW NPL [Server 2]
+#EXTINF:-1 tvg-id="59343" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Fagiano%20Okayama.jpg" group-title="LIVE", Urawa vs Fagiano Okayama - J1 League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa197e4b6fa125e7d4beae6/chunks.m3u8?is_vip=false&token=1789363950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-13d66e80c0402765f2adfd1d558a589d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00c3/chunks.m3u8?is_vip=false&token=1789381958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d200008c23158292f8f1637bdfd8cddd
 
-#EXTINF:-1 tvg-id="60999" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%20Day%20Part%201%20China.jpg" group-title="LIVE", Race Day Part 1: China - MXGP
+#EXTINF:-1 tvg-id="61711" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1789363951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d919321d80278ff9d1d9255c179d304
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1789381960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1f356045a91e01d2e09e5c15788f29fc
 
-#EXTINF:-1 tvg-id="65242" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="LIVE", APIA Leichhardt Tigers vs Sydney United - New South Wales NPL [Server 1]
+#EXTINF:-1 tvg-id="59503" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AVS%20vs%20Farense.jpg" group-title="LIVE", AVS vs Farense - Segunda Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9dcd6e5213cd25c02fd9ea-backup/chunks.m3u8?is_vip=false&token=1789363953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-777835a9c90a0225c8ab99014b1a8a05
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0256-backup/chunks.m3u8?is_vip=false&token=1789381962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4add649ce77c7f6180cdc9a76ecb0bcf
 
-#EXTINF:-1 tvg-id="65242" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="LIVE", APIA Leichhardt Tigers vs Sydney United - New South Wales NPL [Server 2]
+#EXTINF:-1 tvg-id="59503" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AVS%20vs%20Farense.jpg" group-title="LIVE", AVS vs Farense - Segunda Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9dcd6e5213cd25c02fd9ea/chunks.m3u8?is_vip=false&token=1789363953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa2ed8f17d738c609ca6e71dcc99a266
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0256/chunks.m3u8?is_vip=false&token=1789381963-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-770ff5c4101b162495156cc6a6419578
+
+#EXTINF:-1 tvg-id="59348" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20FC%20Gomel.jpg" group-title="LIVE", FC Isloch Minsk R. vs FC Gomel - Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-69de5d8253f8a6e59495aee7-backup/chunks.m3u8?is_vip=false&token=1789381969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a035aeeff7fc5fee249c1e4c639da562
+
+#EXTINF:-1 tvg-id="59348" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20FC%20Gomel.jpg" group-title="LIVE", FC Isloch Minsk R. vs FC Gomel - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-69de5d8253f8a6e59495aee7/chunks.m3u8?is_vip=false&token=1789381970-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d24736cdb85ecc43d5029970bc7765ec
+
+#EXTINF:-1 tvg-id="59345" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gwangju%20FC%20vs%20FC%20Anyang.jpg" group-title="LIVE", Gwangju FC vs FC Anyang - K League 1 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00cb-backup/chunks.m3u8?is_vip=false&token=1789381973-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a6bdebb658265b36234c28e469127ad
+
+#EXTINF:-1 tvg-id="59345" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gwangju%20FC%20vs%20FC%20Anyang.jpg" group-title="LIVE", Gwangju FC vs FC Anyang - K League 1 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00cb/chunks.m3u8?is_vip=false&token=1789381973-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-146afceb863b82f69dcfce67f093f489
+
+#EXTINF:-1 tvg-id="64114" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flanders%20Darts%20Trophy%20%20Day%203%20-%20Afternoon%20Session.jpg" group-title="Darts", Flanders Darts Trophy | Day 3 - Afternoon Session - European Tour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789381981-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-310c60af2a9a24641d6c2702195d0da3
 
