@@ -3,28 +3,28 @@
         "name": "Axsports Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "6:32:29 PM 22-09-2026",
+        "last_update_time": "11:17:29 PM 22-09-2026",
         "statistics": {
-            "total_live": 4,
-            "total_upcoming": 49
+            "total_live": 6,
+            "total_upcoming": 60
         }
     },
     "matches": [
         {
-            "id": 73903,
+            "id": 66606,
             "status": "LIVE",
-            "name": "WTA Singapore",
-            "slug": "wta-singapore",
+            "name": "England vs Sri Lanka",
+            "slug": "england-vs-sri-lanka",
             "score": "vs",
-            "timelive": "03:00",
+            "timelive": "11:30",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
-            "start_at": 1790046000,
-            "timestamp": 1790046000,
-            "bd_time": "9:00 AM 22-09-2026",
+            "start_at": 1790076600,
+            "timestamp": 1790076600,
+            "bd_time": "5:30 PM 22-09-2026",
             "ishot": false,
-            "league_name": "WTA Singapore",
+            "league_name": "Sri Lanka tour of England",
             "league_logo": "",
             "localteam_name": "",
             "localteam_logo": "",
@@ -33,28 +33,53 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "147445",
-                    "stream_name": "147445",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/147445_abr.m3u8",
+                    "chanel_id": "289",
+                    "stream_name": "289",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/289_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 12:32:32",
-                    "updated_at": "2026-09-22 12:32:32"
+                    "created_at": "2026-09-22 17:17:31",
+                    "updated_at": "2026-09-22 17:17:31"
                 },
                 {
                     "id": "",
-                    "chanel_id": "147445",
-                    "stream_name": "147445",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445_abr.m3u8",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 12:32:32",
-                    "updated_at": "2026-09-22 12:32:32",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790166753-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ad08a32c09929f1cd60045d9ee2fe034"
+                    "created_at": "2026-09-22 17:17:31",
+                    "updated_at": "2026-09-22 17:17:31"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "289",
+                    "stream_name": "289",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 3,
+                    "created_at": "2026-09-22 17:17:31",
+                    "updated_at": "2026-09-22 17:17:31",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790183853-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-98f4b2252eecf2b2755410eab85e9e4f"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "490",
+                    "stream_name": "490",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 4,
+                    "created_at": "2026-09-22 17:17:31",
+                    "updated_at": "2026-09-22 17:17:31",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790183858-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1f5e59a581ae8861f5993150417d8173"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -90,8 +115,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 12:32:58",
-                    "updated_at": "2026-09-22 12:32:58"
+                    "created_at": "2026-09-22 17:17:43",
+                    "updated_at": "2026-09-22 17:17:43"
                 },
                 {
                     "id": "",
@@ -102,181 +127,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 12:32:58",
-                    "updated_at": "2026-09-22 12:32:58",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790166780-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d6ea3eead7c7762b6956dad38466112e"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66606,
-            "status": "LIVE",
-            "name": "England vs Sri Lanka",
-            "slug": "england-vs-sri-lanka",
-            "score": "vs",
-            "timelive": "11:30",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1790076600,
-            "timestamp": 1790076600,
-            "bd_time": "5:30 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "Sri Lanka tour of England",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "289",
-                    "stream_name": "289",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/289_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-22 12:33:11",
-                    "updated_at": "2026-09-22 12:33:11"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-22 12:33:11",
-                    "updated_at": "2026-09-22 12:33:11"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "289",
-                    "stream_name": "289",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 3,
-                    "created_at": "2026-09-22 12:33:11",
-                    "updated_at": "2026-09-22 12:33:11",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790166793-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5f65b256baba8493913ef9288b0c8e62"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "490",
-                    "stream_name": "490",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 4,
-                    "created_at": "2026-09-22 12:33:11",
-                    "updated_at": "2026-09-22 12:33:11",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790166797-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f43c4d0eac8ea4baca666a9f7429c1c3"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 65225,
-            "status": "LIVE",
-            "name": "ES1, CRO Race, Stage 1",
-            "slug": "es1-cro-race-stage-1",
-            "score": "vs",
-            "timelive": "12:00",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1790078400,
-            "timestamp": 1790078400,
-            "bd_time": "6:00 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "UCI Pro Series",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "1410",
-                    "stream_name": "1410",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-22 12:33:03",
-                    "updated_at": "2026-09-22 12:33:03"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "1410",
-                    "stream_name": "1410",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "created_at": "2026-09-22 12:33:03",
-                    "updated_at": "2026-09-22 12:33:03",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790166805-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d2938e1d77035f2f6b27c4303e6acab7"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66648,
-            "status": "UPCOMING",
-            "name": "Mixed Relay",
-            "slug": "mixed-relay",
-            "score": "vs",
-            "timelive": "14:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790085600,
-            "timestamp": 1790085600,
-            "bd_time": "8:00 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "Cycling World Championships",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "1410",
-                    "stream_name": "1410",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "1410",
-                    "stream_name": "1410",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:43",
+                    "updated_at": "2026-09-22 17:17:43",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790183865-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b2185ab792867bceb8083aa7e4877dc3"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -284,66 +137,17 @@
         },
         {
             "id": 66649,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "Men's Junior ITT",
             "slug": "mens-junior-itt",
             "score": "vs",
             "timelive": "16:00",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790092800,
             "timestamp": 1790092800,
             "bd_time": "10:00 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "Cycling World Championships",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "1409",
-                    "stream_name": "1409",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1409_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "1409",
-                    "stream_name": "1409",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1409_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66650,
-            "status": "UPCOMING",
-            "name": "Women's Junior ITT",
-            "slug": "womens-junior-itt",
-            "score": "vs",
-            "timelive": "19:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790103600,
-            "timestamp": 1790103600,
-            "bd_time": "1:00 AM 23-09-2026",
             "ishot": false,
             "league_name": "Cycling World Championships",
             "league_logo": "",
@@ -361,8 +165,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:49",
+                    "updated_at": "2026-09-22 17:17:49"
                 },
                 {
                     "id": "",
@@ -373,96 +177,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66651,
-            "status": "UPCOMING",
-            "name": "ES1, CRO Race, Stage 2",
-            "slug": "es1-cro-race-stage-2",
-            "score": "vs",
-            "timelive": "12:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790164800,
-            "timestamp": 1790164800,
-            "bd_time": "6:00 PM 23-09-2026",
-            "ishot": false,
-            "league_name": "UCI Pro Series",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "1410",
-                    "stream_name": "1410",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-22 12:03:13",
-                    "updated_at": "2026-09-22 12:03:13"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "1410",
-                    "stream_name": "1410",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-22 12:03:13",
-                    "updated_at": "2026-09-22 12:03:13"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66076,
-            "status": "UPCOMING",
-            "name": "US Biskra vs JS Saoura",
-            "slug": "us-biskra-vs-js-saoura",
-            "score": "vs",
-            "timelive": "16:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790092800,
-            "timestamp": 1790092800,
-            "bd_time": "10:00 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "Ligue 1",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/186.png",
-            "localteam_name": "US Biskra",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/909.png",
-            "visitorteam_name": "JS Saoura",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/914.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:49",
+                    "updated_at": "2026-09-22 17:17:49",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790183872-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-afb99985b8f41b715ae492eb58d9c58f"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -470,14 +187,14 @@
         },
         {
             "id": 66139,
-            "status": "UPCOMING",
+            "status": "1H",
             "name": "Bayern Munich W vs Manchester City W",
             "slug": "bayern-munich-w-vs-manchester-city-w",
             "score": "vs",
-            "timelive": "16:45",
-            "is_playing": false,
+            "timelive": "31",
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790095500,
             "timestamp": 1790095500,
             "bd_time": "10:45 PM 22-09-2026",
@@ -490,46 +207,54 @@
             "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1854.png",
             "link_live": [
                 {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "sort": 1,
+                    "created_at": "2026-09-22 17:17:32",
+                    "updated_at": "2026-09-22 17:17:32"
+                },
+                {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
                     "display_name": "FHD",
                     "line": "fhd",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "sort": 2,
+                    "created_at": "2026-09-22 17:17:32",
+                    "updated_at": "2026-09-22 17:17:32"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "sort": 3,
+                    "created_at": "2026-09-22 17:17:32",
+                    "updated_at": "2026-09-22 17:17:32",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790183884-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-019685f6fdb8f2c35e97e0d24c98db2e"
                 },
                 {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
                     "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "line": "fhd",
+                    "sort": 4,
+                    "created_at": "2026-09-22 17:17:32",
+                    "updated_at": "2026-09-22 17:17:32"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "sort": 5,
+                    "created_at": "2026-09-22 17:17:32",
+                    "updated_at": "2026-09-22 17:17:32",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790183888-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eaa3c5d5bcabb75a51e9902aa7fc0523"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "sort": 6,
+                    "created_at": "2026-09-22 17:17:32",
+                    "updated_at": "2026-09-22 17:17:32"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -537,14 +262,14 @@
         },
         {
             "id": 66148,
-            "status": "UPCOMING",
+            "status": "1H",
             "name": "Inter Milano W vs Häcken W",
             "slug": "inter-milano-w-vs-hacken-w",
             "score": "vs",
-            "timelive": "16:45",
-            "is_playing": false,
+            "timelive": "31",
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790095500,
             "timestamp": 1790095500,
             "bd_time": "10:45 PM 22-09-2026",
@@ -560,29 +285,81 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:36",
+                    "updated_at": "2026-09-22 17:17:36",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790183894-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a42e025c464f9fd944fada4a1789cd0f"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8",
                     "display_name": "FHD",
                     "line": "other",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:36",
+                    "updated_at": "2026-09-22 17:17:36"
                 },
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:36",
+                    "updated_at": "2026-09-22 17:17:36",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790183898-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-16e701747dc1c1e343b6f9381025548c"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
+                    "created_at": "2026-09-22 17:17:36",
+                    "updated_at": "2026-09-22 17:17:36"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66618,
+            "status": "LIVE",
+            "name": "Tampa Bay Rays vs New York Yankees",
+            "slug": "tampa-bay-rays-vs-new-york-yankees",
+            "score": "vs",
+            "timelive": "17:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790096400,
+            "timestamp": 1790096400,
+            "bd_time": "11:00 PM 22-09-2026",
+            "ishot": false,
+            "league_name": "MLB",
+            "league_logo": "",
+            "localteam_name": "Tampa Bay Rays",
+            "localteam_logo": "",
+            "visitorteam_name": "New York Yankees",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-22 17:18:20",
+                    "updated_at": "2026-09-22 17:18:20"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-22 17:18:20",
+                    "updated_at": "2026-09-22 17:18:20",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790183907-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1da1ee179bda0cb916e8fed15956934c"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1308,6 +1085,84 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 67365,
+            "status": "UPCOMING",
+            "name": "China PR U23 vs UAE U23",
+            "slug": "china-pr-u23-vs-uae-u23",
+            "score": "vs",
+            "timelive": "05:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790141400,
+            "timestamp": 1790141400,
+            "bd_time": "11:30 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "Asian Games",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png",
+            "localteam_name": "China PR U23",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/10932.png",
+            "visitorteam_name": "UAE U23",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10184.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d0/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d0/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 67366,
+            "status": "UPCOMING",
+            "name": "Iran U23 vs Korea DPR U23",
+            "slug": "iran-u23-vs-korea-dpr-u23",
+            "score": "vs",
+            "timelive": "05:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790141400,
+            "timestamp": 1790141400,
+            "bd_time": "11:30 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "Asian Games",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png",
+            "localteam_name": "Iran U23",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/10937.png",
+            "visitorteam_name": "Korea DPR U23",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10939.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8cf/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:02",
+                    "updated_at": "2026-09-22 13:03:02"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8cf/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:02",
+                    "updated_at": "2026-09-22 13:03:02"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 74814,
             "status": "UPCOMING",
             "name": "Fiji W vs Solomon Islands W",
@@ -1341,6 +1196,279 @@
                     "line": "web",
                     "created_at": "2026-09-22 10:32:55",
                     "updated_at": "2026-09-22 10:32:55"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69069,
+            "status": "UPCOMING",
+            "name": "Gamba Osaka vs Tokushima Vortis",
+            "slug": "gamba-osaka-vs-tokushima-vortis",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Gamba Osaka",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/293.png",
+            "visitorteam_name": "Tokushima Vortis",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/299.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d22/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 15:03:37",
+                    "updated_at": "2026-09-22 15:03:37"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d22/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 15:03:37",
+                    "updated_at": "2026-09-22 15:03:37"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69070,
+            "status": "UPCOMING",
+            "name": "Kashima vs Ventforet Kofu",
+            "slug": "kashima-vs-ventforet-kofu",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Kashima",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/290.png",
+            "visitorteam_name": "Ventforet Kofu",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/308.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d23/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d23/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69071,
+            "status": "UPCOMING",
+            "name": "Kashiwa Reysol vs Imabari",
+            "slug": "kashiwa-reysol-vs-imabari",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Kashiwa Reysol",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/281.png",
+            "visitorteam_name": "Imabari",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10075.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d20/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:53",
+                    "updated_at": "2026-09-22 13:17:53"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d20/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:53",
+                    "updated_at": "2026-09-22 13:17:53"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69072,
+            "status": "UPCOMING",
+            "name": "Kyoto Sanga vs Fujieda MYFC",
+            "slug": "kyoto-sanga-vs-fujieda-myfc",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Kyoto Sanga",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/302.png",
+            "visitorteam_name": "Fujieda MYFC",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4317.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1f/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:02",
+                    "updated_at": "2026-09-22 13:03:02"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1f/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:02",
+                    "updated_at": "2026-09-22 13:03:02"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69073,
+            "status": "UPCOMING",
+            "name": "Machida Zelvia vs Tochigi City",
+            "slug": "machida-zelvia-vs-tochigi-city",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Machida Zelvia",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/303.png",
+            "visitorteam_name": "Tochigi City",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7145.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1e/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 15:03:37",
+                    "updated_at": "2026-09-22 15:03:37"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1e/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 15:03:37",
+                    "updated_at": "2026-09-22 15:03:37"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 67367,
+            "status": "UPCOMING",
+            "name": "Japan U23 vs Thailand U23",
+            "slug": "japan-u23-vs-thailand-u23",
+            "score": "vs",
+            "timelive": "10:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790159400,
+            "timestamp": 1790159400,
+            "bd_time": "4:30 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Asian Games",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png",
+            "localteam_name": "Japan U23",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/10176.png",
+            "visitorteam_name": "Thailand U23",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10960.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d2/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:02",
+                    "updated_at": "2026-09-22 13:03:02"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d2/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:02",
+                    "updated_at": "2026-09-22 13:03:02"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 67368,
+            "status": "UPCOMING",
+            "name": "Kyrgyz Republic U23 vs Hong Kong U23",
+            "slug": "kyrgyz-republic-u23-vs-hong-kong-u23",
+            "score": "vs",
+            "timelive": "10:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790159400,
+            "timestamp": 1790159400,
+            "bd_time": "4:30 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Asian Games",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png",
+            "localteam_name": "Kyrgyz Republic U23",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/10941.png",
+            "visitorteam_name": "Hong Kong U23",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10934.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d1/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:05",
+                    "updated_at": "2026-09-22 13:03:05"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d1/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:05",
+                    "updated_at": "2026-09-22 13:03:05"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1386,49 +1514,371 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 66618,
+            "id": 70860,
             "status": "UPCOMING",
-            "name": "Tampa Bay Rays vs New York Yankees",
-            "slug": "tampa-bay-rays-vs-new-york-yankees",
+            "name": "Japan U18 vs Ukraine U18",
+            "slug": "japan-u18-vs-ukraine-u18",
             "score": "vs",
-            "timelive": "17:00",
+            "timelive": "13:00",
             "is_playing": false,
             "has_ended": false,
             "is_waiting": true,
-            "start_at": 1790096400,
-            "timestamp": 1790096400,
-            "bd_time": "11:00 PM 22-09-2026",
+            "start_at": 1790168400,
+            "timestamp": 1790168400,
+            "bd_time": "7:00 PM 23-09-2026",
             "ishot": false,
-            "league_name": "MLB",
+            "league_name": "Friendlies",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png",
+            "localteam_name": "Japan U18",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/22431.png",
+            "visitorteam_name": "Ukraine U18",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/22343.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f47/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:11",
+                    "updated_at": "2026-09-22 13:03:11"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f47/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:03:11",
+                    "updated_at": "2026-09-22 13:03:11"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 70861,
+            "status": "UPCOMING",
+            "name": "Finland U17 vs France U17",
+            "slug": "finland-u17-vs-france-u17",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790172000,
+            "timestamp": 1790172000,
+            "bd_time": "8:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png",
+            "localteam_name": "Finland U17",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/17952.png",
+            "visitorteam_name": "France U17",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/12507.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f4a/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 14:03:06",
+                    "updated_at": "2026-09-22 14:03:06"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f4a/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 14:03:06",
+                    "updated_at": "2026-09-22 14:03:06"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66183,
+            "status": "UPCOMING",
+            "name": "Iraq vs Oman",
+            "slug": "iraq-vs-oman",
+            "score": "vs",
+            "timelive": "14:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790173800,
+            "timestamp": 1790173800,
+            "bd_time": "8:30 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Gulf Cup of Nations",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/25.png",
+            "localteam_name": "Iraq",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1567.png",
+            "visitorteam_name": "Oman",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1552.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 15:03:39",
+                    "updated_at": "2026-09-22 15:03:39"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 15:03:39",
+                    "updated_at": "2026-09-22 15:03:39"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66181,
+            "status": "UPCOMING",
+            "name": "Azerbaijan vs Tajikistan",
+            "slug": "azerbaijan-vs-tajikistan",
+            "score": "vs",
+            "timelive": "16:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790179200,
+            "timestamp": 1790179200,
+            "bd_time": "10:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png",
+            "localteam_name": "Azerbaijan",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1096.png",
+            "visitorteam_name": "Tajikistan",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1536.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb2/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 16:04:11",
+                    "updated_at": "2026-09-22 16:04:11"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb2/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 16:04:11",
+                    "updated_at": "2026-09-22 16:04:11"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66184,
+            "status": "UPCOMING",
+            "name": "Birmingham Legion vs Brooklyn",
+            "slug": "birmingham-legion-vs-brooklyn",
+            "score": "vs",
+            "timelive": "16:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790179200,
+            "timestamp": 1790179200,
+            "bd_time": "10:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "USL Championship",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/255.png",
+            "localteam_name": "Birmingham Legion",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/3989.png",
+            "visitorteam_name": "Brooklyn",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/27252.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 17:03:48",
+                    "updated_at": "2026-09-22 17:03:48"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 17:03:48",
+                    "updated_at": "2026-09-22 17:03:48"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 70862,
+            "status": "UPCOMING",
+            "name": "Wiedenbrück vs VfL Osnabrück",
+            "slug": "wiedenbruck-vs-vfl-osnabruck",
+            "score": "vs",
+            "timelive": "16:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790179200,
+            "timestamp": 1790179200,
+            "bd_time": "10:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies Clubs",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png",
+            "localteam_name": "Wiedenbrück",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/12897.png",
+            "visitorteam_name": "VfL Osnabrück",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1324.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb3/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 16:04:11",
+                    "updated_at": "2026-09-22 16:04:11"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb3/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 16:04:11",
+                    "updated_at": "2026-09-22 16:04:11"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 70863,
+            "status": "UPCOMING",
+            "name": "Gibraltar vs Sao Tome and Principe",
+            "slug": "gibraltar-vs-sao-tome-and-principe",
+            "score": "vs",
+            "timelive": "16:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790179200,
+            "timestamp": 1790179200,
+            "bd_time": "10:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png",
+            "localteam_name": "Gibraltar",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1093.png",
+            "visitorteam_name": "Sao Tome and Principe",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1494.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb1/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 16:04:12",
+                    "updated_at": "2026-09-22 16:04:12"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb1/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 16:04:12",
+                    "updated_at": "2026-09-22 16:04:12"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66650,
+            "status": "UPCOMING",
+            "name": "Women's Junior ITT",
+            "slug": "womens-junior-itt",
+            "score": "vs",
+            "timelive": "19:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790103600,
+            "timestamp": 1790103600,
+            "bd_time": "1:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "Cycling World Championships",
             "league_logo": "",
-            "localteam_name": "Tampa Bay Rays",
+            "localteam_name": "",
             "localteam_logo": "",
-            "visitorteam_name": "New York Yankees",
+            "visitorteam_name": "",
             "visitorteam_logo": "",
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55835",
-                    "stream_name": "55835",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "chanel_id": "1410",
+                    "stream_name": "1410",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 10:32:46",
+                    "updated_at": "2026-09-22 10:32:46"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55835",
-                    "stream_name": "55835",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "chanel_id": "1410",
+                    "stream_name": "1410",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 10:32:46",
+                    "updated_at": "2026-09-22 10:32:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66651,
+            "status": "UPCOMING",
+            "name": "ES1, CRO Race, Stage 2",
+            "slug": "es1-cro-race-stage-2",
+            "score": "vs",
+            "timelive": "12:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790164800,
+            "timestamp": 1790164800,
+            "bd_time": "6:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "UCI Pro Series",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "1410",
+                    "stream_name": "1410",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-22 12:03:13",
+                    "updated_at": "2026-09-22 12:03:13"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "1410",
+                    "stream_name": "1410",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-22 12:03:13",
+                    "updated_at": "2026-09-22 12:03:13"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2164,6 +2614,55 @@
                     "sort": 2,
                     "created_at": "2026-09-22 10:32:58",
                     "updated_at": "2026-09-22 10:32:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 67515,
+            "status": "NS",
+            "name": "Washington Nationals vs Detroit Tigers",
+            "slug": "washington-nationals-vs-detroit-tigers",
+            "score": "vs",
+            "timelive": "17:10",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790183400,
+            "timestamp": 1790183400,
+            "bd_time": "11:10 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "MLB",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "Detroit Tigers",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bs/1000000449.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-22 17:18:32",
+                    "updated_at": "2026-09-22 17:18:32"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-22 17:18:32",
+                    "updated_at": "2026-09-22 17:18:32"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
